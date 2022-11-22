@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ashenpkr
+- 👋 Hi, I’m @Ashen
 - 👀 I’m interested in software developing
 - 🌱 I’m currently learning C#,Blazor
 - 💞️ I’m looking to collaborate on a team
